@@ -1,0 +1,6 @@
+---
+title: "Update North Ranch Sector Plan Policies"
+output: html_document
+---
+
+While we understand that Orange and Osceola Counties have differing growth and development priorities, we recognize there is a need for contextual continuity for the Orange County Sector Plan with that of the Osceola County Sector Plan. Using the Osceola County Sector Plan policies as a baseline, Renaissance will create an updated set of policies appropriate for the Orange County Sector Plan that reflect the urban form, transportation, infrastructure and economic strategies developed during scenario modeling.   

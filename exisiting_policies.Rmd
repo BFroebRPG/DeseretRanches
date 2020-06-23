@@ -1,0 +1,6 @@
+---
+title: "Review of Exisiting Policies"
+output: html_document
+---
+
+Foundational work for the Orange County Sector Plan will build upon prior or current plans and studies that the County, Regional Planning Councils or other agencies are currently using to guide and regulate growth and development, whether addressing the study area directly or as a component in larger regional plans.  Renaissance will review documents such as the Comprehensive Plan, Transportation Plans, Vision Plans, and Comprehensive Economic Development Strategies to look at relationships and themes that may influence this project. As a group, these documents help set the context for the scenario modeling that will be completed for this project.  

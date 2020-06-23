@@ -1,0 +1,12 @@
+---
+title: "Deseret Ranches Site Demo"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+The following scope outlines the work tasks to be completed by Renaissance Planning for the foundational work needed to develop the first iteration of the Orange County Sector Plan.  Because of the size and impact of the Sector Plan, the work effort includes developing up to three regional scenarios designed to support the rationale for the Sector Plan. It includes the review of existing agency policies, most notably those in Orange County, and updating the North Range Sector Plan policies accordingly. Finally, the work plan describes the development of the initial Sector Plan. Table 1 provided at the end of the document presents the anticipated hours and costs for the effort.

@@ -1,0 +1,42 @@
+---
+title: "Scenario 1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+<iframe width='1000px' height='1258px' src='https://deseret-access-mapping.herokuapp.com/' >
+</iframe>
+
+<br>
+Year 2080 regional development including the Orange County Sector Plan was developed using a variety of metrics, the theoretical framework used are described below
+<br>
+
+# Frameworks {.tabset .tabset-fade .tabset-pills}
+
+## Socioeconomic Forecast 
+
+As noted above, each of the scenarios will assume the same 2080 population forecasts. How those forecasts translate to jobs and dwelling units then place types and allocated across the region will vary by the foundational story behind each scenario. We will work with RCLCO to develop the 2080 population forecasts and the allocations of those forecasts to jobs and dwelling units. The allocations will include the development program for the Sector Plan used for Scenario 1. 
+
+## Environment
+
+We will use regional and Sector Plan specific environmental GIS data from Breedlove Dennis & Associates (BDA) to develop environmental footprints for each scenario.  These footprints will create a framework for both developable land and connected natural systems.    
+
+## Land Capacities / Place Types
+
+Place types generalize land development characteristics into discreet categories, such as small-town centers, retail centers, and subdivisions. We will develop a place type library that includes the development mix and densities/intensities of existing and potential place types. We will also create place type GIS layers that reflect existing and planned development conditions across the region. Based on the scenario story, we will select and allocate place types across the region until we have reached the population and jobs control totals. 
+
+## Transportation / Accessibility 
+
+Once we have allocated place types for each scenario, we will run the transportation model to determine accessibility. Feedback will be used to refine job types and place type allocation.  It will also be used to identify needed transportation improvements. 
+
+## Economic Development
+
+As noted in the last bullet, accessibility results will impact job types.   For example, Scenario 1 will foster synergies between the high-tech sectors in East Orange County and Brevard County, resulting in a higher proportion of high-tech jobs than the other scenarios that allocate population growth in other parts of the region. We will use accessibility information and centers research provided by RCLCO to determine the types of economic synergies and jobs expected under each scenario and estimate the economic development impacts of those allocations.
+
+## Fiscal impacts
+
+This last step will provide high level feedback on how each scenario impacts both revenue generation and infrastructure / service costs. We will coordinate with McIntosh Associates (MA) on this element.

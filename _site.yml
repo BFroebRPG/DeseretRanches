@@ -1,0 +1,37 @@
+name: "Deseret Ranches Report Mock Up"
+output_dir: "."
+navbar:
+  title: "Deseret Ranches"
+  left:
+    - text: "Introduction"
+      href: index.html
+    - text: "Regional Scenarios Frameworks"
+      menu: 
+      - text: "Scenario 1"
+        href: Scenario_1_frame.html
+      - text: "---------"
+      - text: "Scenario 2"
+        href: Scenario_2_frame.html
+      - text: "---------"
+      - text: "Scenario 3"
+        href: Scenario_3_frame.html
+    - text: "Regional Scenarios Evaluation"
+      menu: 
+      - text: "Scenario 1"
+        href: Scenario_1_eval.html
+      - text: "---------"
+      - text: "Scenario 2"
+        href: Scenario_2_eval.html
+      - text: "---------"
+      - text: "Scenario 3"
+        href: Scenario_3_eval.html
+    - text: "Policy Framework"
+      menu: 
+      - text: "Review of Exisiting Policies"
+        href: exisiting_policies.html
+      - text: "---------"
+      - text: "Update North Ranch Sector Plan Policies"
+        href: update.html
+output:
+  html_document:
+    theme: sandstone
